@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
+![image](https://user-images.githubusercontent.com/119307197/226108068-193bc4fe-77f6-415e-a7df-6f5e28688b8a.png)
 
-![image](https://user-images.githubusercontent.com/119307197/226107973-4ff0e4d3-5b79-4480-b086-84674528bc41.png)
 
 <!--
 **Gearx10a/Gearx10a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
